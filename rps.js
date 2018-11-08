@@ -56,7 +56,4 @@ document.onkeyup = function(event) {
 
 
 
-document.onkeyup = function() {
-		alert("pressed a button");
-};
 
